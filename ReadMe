@@ -1,0 +1,13 @@
+This is the coding test submission by Chris Jones for the position of Junior Developer at Felinesoft.
+
+MY SOLUTION
+Uses JavaScript.
+It connects to the API and creates a card for each of the breeds, detailing a description and country of origin on each.
+
+FURTHER DEVELOPMENTS
+I would seek to include an image on each card and a 'select' dropdown menu so that only one card is displayed at a time.
+
+Thanks for your time.
+
+Chris Jones
+info@chris-jones-dev.com
